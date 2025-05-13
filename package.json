@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Bianca-Lucas/tourism-platform#readme",
   "dependencies": {
     "express": "^5.1.0",
-    "prisma": "^6.7.0"
+    "prisma": "^6.7.0",
+    "sqlite3": "^5.1.7"
   }
 }
